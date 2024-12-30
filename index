@@ -109,7 +109,7 @@
             <a href="https://link-to-live-project.com" target="_blank" class="btn">View Project</a>
         </div>
         <div class="card">
-            <img src="path/to/your/image2.jpg" alt="Quiz Application" style="width: 100%; border-radius: 8px;">
+            <img src="https://github.com/deepu19999/deepikaportfolio/blob/main/images/quiz.jpg" alt="Quiz Application" style="width: 100%; border-radius: 8px;">
             <h3>Quiz Application</h3>
             <p>Interactive quiz app with a timer and scoring system.</p>
             <a href="https://link-to-live-project.com" target="_blank" class="btn">View Project</a>
