@@ -103,7 +103,7 @@
     <h2>Projects</h2>
     <div class="projects">
         <div class="card">
-            <img src="path/to/your/image1.jpg" alt="Dynamic Portfolio Website" style="width: 100%; border-radius: 8px;">
+            <img src="https://github.com/deepu19999/deepikaportfolio/blob/main/images/deepu%20akka.png" alt="Dynamic Portfolio Website" style="width: 100%; border-radius: 8px;">
             <h3>Dynamic Portfolio Website</h3>
             <p>A responsive and dynamic portfolio site with admin panel integration.</p>
             <a href="https://link-to-live-project.com" target="_blank" class="btn">View Project</a>
